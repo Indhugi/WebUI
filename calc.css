@@ -1,0 +1,9 @@
+form{
+    margin: 0 auto;
+    align-items: center;
+}
+input{
+    padding:10px;
+    margin: 10px;
+    border-style: solid;
+}
